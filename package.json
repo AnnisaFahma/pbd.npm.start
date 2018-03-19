@@ -1,0 +1,18 @@
+{
+  "name": "tugas-npm",
+  "version": "0.0.1",
+  "description": "tugas buat npm start",
+  "main": "Namaku.js",
+  "scripts": {
+    "start":"node Namaku.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pbd.npm.start"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Annisa",
+  "license": "ISC"
+}
